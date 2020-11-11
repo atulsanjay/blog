@@ -79,7 +79,13 @@ PLUGINS = [
     'series',
     #'assets',
     'neighbors',
-    'rmd_reader'
+    'rmd_reader',
+    'tag_cloud',
+    'liquid_tags.youtube',
+    'liquid_tags.notebook',
+    'liquid_tags.include_code',
+    'render_math',
+    'pelican-ipynb.markup'
     ]
 
 

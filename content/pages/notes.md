@@ -12,7 +12,7 @@ date: 2020-09-17 9:33:47 +0500
 <br>
 
 Inspired by #100daysofcode<br>
-**This is my 200 days of learning** #200daysofML<br>
+**This is my 175 days of learning** #175daysofML<br>
   Day 1
 - Day 2
 - Day 3
